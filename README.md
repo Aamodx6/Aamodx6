@@ -15,8 +15,8 @@ I build **ML pipelines, AI/ML systems, and open-source infrastructure.**
 
 ▸ **[Hacktoberfest '25](https://www.holopin.io/@aamod007#)** · shipped merged pull requests during the October open-source sprint<br/>
 ▸ **[GSSoC '25](https://www.linkedin.com/posts/aamod-kumar_gssoc2025-girlscript-opensource-activity-7378484000174235648-yzz8)** · contributed code across GirlScript's global summer of open-source<br/>
-▸ **[ECWoC '26](https://www.linkedin.com/posts/aamod-kumar_ecwoc-elitecoders-opensource-activity-7440395999417831424-BfoH)** · placed Top 50 globally at Elite Coders' Winter of Code<br/>
-▸ **[GSSoC '26](https://gssoc.girlscript.org/profile/7bf4e595-478d-4a73-a094-d1c49416c546)** · mentoring first-time contributors through their opening pull requests<br/>
+▸ **[ECWoC '26](https://www.linkedin.com/posts/aamod-kumar_ecwoc-elitecoders-opensource-activity-7440395999417831424-BfoH)** ·   Ranked #31 contributor globally at Elite Coders' Winter of Code<br/>
+▸ **[GSSoC '26](https://gssoc.girlscript.org/profile/7bf4e595-478d-4a73-a094-d1c49416c546)** · Ranked #1 mentor, mentoring contributors through their opening pull requests<br/>
 ▸ **[SWOC '26](https://www.linkedin.com/posts/aamod-kumar_opensource-mentorship-techcommunity-activity-7421075766597169152-fOYs)** · steering new developers through Social Winter of Code<br/>
 ▸ **[OSCG '26](https://www.linkedin.com/posts/aamod-kumar_opensource-mentorship-techcommunity-activity-7421075766597169152-fOYs)** · anchoring the Open Source Connect contributor community<br/>
 ▸ **[ECSoC '26](https://mail.google.com/mail/u/0/#search/mentor/FMfcgzQhVNQgVPpgLzMmmJGsbWDbNLKp)** · mentoring first-time contributors through their opening pull requests<br/>

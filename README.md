@@ -20,7 +20,7 @@ I build **ML pipelines, AI/ML systems, and open-source infrastructure.**
 ▸ **[SWOC '26](https://www.linkedin.com/posts/aamod-kumar_opensource-mentorship-techcommunity-activity-7421075766597169152-fOYs)** · steering new developers through Social Winter of Code<br/>
 ▸ **[OSCG '26](https://www.linkedin.com/posts/aamod-kumar_opensource-mentorship-techcommunity-activity-7421075766597169152-fOYs)** · anchoring the Open Source Connect contributor community<br/>
 ▸ **[ECSoC '26](https://mail.google.com/mail/u/0/#search/mentor/FMfcgzQhVNQgVPpgLzMmmJGsbWDbNLKp)** · mentoring first-time contributors through their opening pull requests<br/>
-▸ **[Headlamp](https://github.com/kubernetes-sigs/headlamp/pulls?q=is%3Apr+author%3AAamod007+is%3Amerged+)** · contributing to the Kubernetes UI for cluster management<br/>
+▸ **[Headlamp](https://github.com/kubernetes-sigs/headlamp/pulls?q=is%3Apr+state%3Aclosed+author%3AAamodx6+is+is%3Amerged)** · contributing to the Kubernetes UI for cluster management<br/>
 ▸ **[Amazon ML Summer School](https://www.linkedin.com/posts/aamod-kumar_amazonmlsummerschool-machinelearning-growthmindset-ugcPost-7478401654539673602-lpyZ/)** · selected for the 2026 apprenticeship cohort<br/>
 
 <p>
